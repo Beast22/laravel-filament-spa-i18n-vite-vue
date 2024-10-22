@@ -1,0 +1,3 @@
+<svg class="block h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+  <path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"/>
+</svg><?php /**PATH D:\openserver2\domains\laravel-filament-spa-i18n-vite-vue\storage\framework\views/1fa8d7c0507ee98d719cfd9505b88e4e6a4bf99d.blade.php ENDPATH**/ ?>

@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "useDefineForClassFields": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "strict": true,
+        "jsx": "preserve",
+        "sourceMap": true,
+        "resolveJsonModule": true,
+        "isolatedModules": false,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "lib": ["es5", "es6", "dom", "dom.iterable"],
+        "skipLibCheck": true,
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["resources/js/*"]
+        },
+        "allowJs": false,
+        "checkJs": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "noImplicitAny":  false,
+        "types": [
+            "node"
+          ]
+    },
+    "include": ["**/*.ts", "**/*.vue"],
+    "exclude": ["node_modules", "public"]
+}

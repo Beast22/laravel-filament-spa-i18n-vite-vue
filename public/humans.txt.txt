@@ -1,0 +1,15 @@
+/* TEAM */
+
+	Developer: Eugene Snakecatcher 
+    Design: Julia Stremnitskaya
+	Website: https://www.behance.net/eugenepetukhov
+
+/* THANKS */
+
+	To Universe
+
+/* SITE */
+
+	Doctype: HTML5
+	Tools: Visual Studio code, TablePlus, Node.js, Figma
+	Tech: Vite, Vue, Pinia, Laravel, Filament, Ky, PrimeVue, NaiveUi
