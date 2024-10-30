@@ -26,9 +26,9 @@ Filtration page:
 Object page:
 ![SPA preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/p-3.jpg?raw=true)
 Bottom page:
-![SPA preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/p-3.jpg?raw=true)
-Rightside drawer:
 ![SPA preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/p-4.jpg?raw=true)
+Rightside drawer:
+![SPA preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/p-5.jpg?raw=true)
 
 
 ## Filament screenshots
