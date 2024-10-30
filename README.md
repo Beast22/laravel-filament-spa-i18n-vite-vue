@@ -1,7 +1,7 @@
 # SPA with i18n @ Laravel, Filament, Vue, Vite, Pinia.
 
 ### Laravel backend:
-- Full data migrations with seeders and factoriy example (pages, categories, descriptions, objects, users)
+- Full data migrations with seeders and factory example (pages, categories, descriptions, objects, users)
 - Filament admin panel with customised theme
 - Internationalization (i18n) with [Spatie Translatable](https://filamentphp.com/docs/2.x/spatie-laravel-translatable-plugin/installation)
 - [Spatie Media](https://filamentphp.com/docs/2.x/spatie-laravel-media-library-plugin/installation)
