@@ -34,13 +34,13 @@ Rightside drawer:
 ## Filament screenshots
 
 Category list:
-![Filament preview](https://github.com/volkar/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-1.jpg?raw=true)
+![Filament preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-1.jpg?raw=true)
 Objects list:
-![Filament preview](https://github.com/volkar/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-2.jpg?raw=true)
+![Filament preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-2.jpg?raw=true)
 Separate object:
-![Filament preview](https://github.com/volkar/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-3.jpg?raw=true)
+![Filament preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-3.jpg?raw=true)
 Global settings page:
-![Filament preview](https://github.com/volkar/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-4.jpg?raw=true)
+![Filament preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-4.jpg?raw=true)
 
 ## Prerequisites
 
@@ -101,5 +101,5 @@ Filament's admin account created by seeding:
 ## Contact me
 
 Contact me
-- E-mail: sergey@volkar.ru
+- E-mail: blagorad@list.ru
 - Telegram: @snakecatcher32
