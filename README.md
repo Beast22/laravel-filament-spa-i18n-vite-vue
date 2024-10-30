@@ -31,7 +31,8 @@ Rightside drawer:
 ![SPA preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/p-5.jpg?raw=true)
 
 ## SPA video
-![SPA preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/video_1.mp4)
+https://github.com/user-attachments/assets/582e1780-ca5e-49a3-80b4-443b2a6c4340
+
 
 ## Filament screenshots
 
