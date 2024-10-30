@@ -33,9 +33,7 @@ Rightside drawer:
 ## SPA video
 https://github.com/user-attachments/assets/582e1780-ca5e-49a3-80b4-443b2a6c4340
 
-
 ## Filament screenshots
-
 Category list:
 ![Filament preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-1.jpg?raw=true)
 Objects list:
@@ -44,6 +42,9 @@ Separate object:
 ![Filament preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-3.jpg?raw=true)
 Global settings page:
 ![Filament preview](https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue/blob/main/github_preview/pf-4.jpg?raw=true)
+
+## Filament video
+https://github.com/user-attachments/assets/0d902cb8-d1c5-4302-9195-4a6cbef66bef
 
 ## Prerequisites
 
