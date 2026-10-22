@@ -58,7 +58,7 @@ Required requisites:
 
 1. Clone the project:
 ```
-git clone https://github.com/volkar/laravel-filament-spa-i18n-vite-vue.git
+git clone https://github.com/Beast22/laravel-filament-spa-i18n-vite-vue.git
 ```
 2. Go to the project's folder
 ```
